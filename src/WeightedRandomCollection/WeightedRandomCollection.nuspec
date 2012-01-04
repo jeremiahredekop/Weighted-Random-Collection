@@ -7,8 +7,8 @@
     <authors>JeremiahRedekop</authors>
     <projectUrl>https://github.com/jeremiahredekop/Weighted-Random-Collection</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description></description>
-    <summary></summary>
+    <description>Collection which allows items to be pulled out randomly including weighting as a consideration</description>
+    <summary>Collection which allows items to be pulled out randomly including weighting as a consideration</summary>
     <tags>Random collection weighted</tags>
     <dependencies>
     </dependencies>
