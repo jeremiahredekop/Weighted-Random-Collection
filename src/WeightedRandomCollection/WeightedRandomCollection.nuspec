@@ -14,7 +14,7 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="src\WeightedRandomCollection\bin\Release\WeightedRandomCollection.dll" target="lib\net35\WeightedRandomCollection.dll" />
-	<file src="src\WeightedRandomCollection\bin\Release\WeightedRandomCollection.dll" target="lib\net40\WeightedRandomCollection.dll" />
+    <file src="src\WeightedRandomCollection\WeightedRandomCollection\bin\Release\WeightedRandomCollection.dll" target="lib\net35\WeightedRandomCollection.dll" />
+	<file src="src\WeightedRandomCollection\WeightedRandomCollection\bin\Release\WeightedRandomCollection.dll" target="lib\net40\WeightedRandomCollection.dll" />
   </files>
 </package>
