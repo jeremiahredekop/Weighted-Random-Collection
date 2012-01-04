@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>WeightedRandomCollection</id>
+    <version>1.0</version>
+    <title>Weighted Random Collection</title>
+    <authors>JeremiahRedekop</authors>
+    <projectUrl>https://github.com/jeremiahredekop/Weighted-Random-Collection</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description></description>
+    <summary></summary>
+    <tags>Random collection weighted</tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="src\WeightedRandomCollection\bin\Release\WeightedRandomCollection.dll" target="lib\net35\WeightedRandomCollection.dll" />
+	<file src="src\WeightedRandomCollection\bin\Release\WeightedRandomCollection.dll" target="lib\net40\WeightedRandomCollection.dll" />
+  </files>
+</package>
